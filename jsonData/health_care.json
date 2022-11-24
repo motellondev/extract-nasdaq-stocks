@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "UNH",
+        "name": "UnitedHealth Group Incorporated Common Stock (DE)",
+        "lastsale": "529.71",
+        "netchange": "6.62",
+        "pctchange": "1.266",
+        "marketCap": "494,934,047,459",
+        "url": "https://www.nasdaq.com/market-activity/stocks/unh"
+    },
+    {
+        "symbol": "JNJ",
+        "name": "Johnson & Johnson Common Stock",
+        "lastsale": "177.01",
+        "netchange": "0.19",
+        "pctchange": "0.107",
+        "marketCap": "462,789,743,275",
+        "url": "https://www.nasdaq.com/market-activity/stocks/jnj"
+    },
+    {
+        "symbol": "LLY",
+        "name": "Eli Lilly and Company Common Stock",
+        "lastsale": "361.72",
+        "netchange": "0.84",
+        "pctchange": "0.233",
+        "marketCap": "343,698,349,988",
+        "url": "https://www.nasdaq.com/market-activity/stocks/lly"
+    },
+    {
+        "symbol": "ABBV",
+        "name": "AbbVie Inc. Common Stock",
+        "lastsale": "159.39",
+        "netchange": "-0.40",
+        "pctchange": "-0.25",
+        "marketCap": "281,878,108,170",
+        "url": "https://www.nasdaq.com/market-activity/stocks/abbv"
+    },
+    {
+        "symbol": "PFE",
+        "name": "Pfizer, Inc. Common Stock",
+        "lastsale": "48.85",
+        "netchange": "-0.23",
+        "pctchange": "-0.469",
+        "marketCap": "274,210,415,132",
+        "url": "https://www.nasdaq.com/market-activity/stocks/pfe"
+    }
+]

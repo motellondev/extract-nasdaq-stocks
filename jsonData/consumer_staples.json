@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "KO",
+        "name": "Coca-Cola Company (The) Common Stock",
+        "lastsale": "62.63",
+        "netchange": "0.28",
+        "pctchange": "0.449",
+        "marketCap": "270,844,265,724",
+        "url": "https://www.nasdaq.com/market-activity/stocks/ko"
+    },
+    {
+        "symbol": "PEP",
+        "name": "PepsiCo, Inc. Common Stock",
+        "lastsale": "185.08",
+        "netchange": "0.24",
+        "pctchange": "0.13",
+        "marketCap": "254,986,420,402",
+        "url": "https://www.nasdaq.com/market-activity/stocks/pep"
+    },
+    {
+        "symbol": "BUD",
+        "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
+        "lastsale": "56.38",
+        "netchange": "0.45",
+        "pctchange": "0.805",
+        "marketCap": "113,844,992,281",
+        "url": "https://www.nasdaq.com/market-activity/stocks/bud"
+    },
+    {
+        "symbol": "DEO",
+        "name": "Diageo plc Common Stock",
+        "lastsale": "183.01",
+        "netchange": "2.83",
+        "pctchange": "1.571",
+        "marketCap": "104,082,020,570",
+        "url": "https://www.nasdaq.com/market-activity/stocks/deo"
+    },
+    {
+        "symbol": "SONY",
+        "name": "Sony Group Corporation American Depositary Shares ",
+        "lastsale": "82.20",
+        "netchange": "0.96",
+        "pctchange": "1.182",
+        "marketCap": "101,787,436,438",
+        "url": "https://www.nasdaq.com/market-activity/stocks/sony"
+    }
+]

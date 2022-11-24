@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "AAPL",
+        "name": "Apple Inc. Common Stock",
+        "lastsale": "151.07",
+        "netchange": "0.89",
+        "pctchange": "0.593",
+        "marketCap": "2,619,151,953,800",
+        "url": "https://www.nasdaq.com/market-activity/stocks/aapl"
+    },
+    {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation Common Stock",
+        "lastsale": "247.58",
+        "netchange": "2.55",
+        "pctchange": "1.041",
+        "marketCap": "1,845,578,460,992",
+        "url": "https://www.nasdaq.com/market-activity/stocks/msft"
+    },
+    {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc. Class C Capital Stock",
+        "lastsale": "98.82",
+        "netchange": "1.49",
+        "pctchange": "1.531",
+        "marketCap": "1,279,027,260,000",
+        "url": "https://www.nasdaq.com/market-activity/stocks/goog"
+    },
+    {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc. Class A Common Stock",
+        "lastsale": "98.46",
+        "netchange": "1.41",
+        "pctchange": "1.453",
+        "marketCap": "1,274,367,780,000",
+        "url": "https://www.nasdaq.com/market-activity/stocks/googl"
+    },
+    {
+        "symbol": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+        "lastsale": "81.97",
+        "netchange": "-0.57",
+        "pctchange": "-0.691",
+        "marketCap": "425,102,649,720",
+        "url": "https://www.nasdaq.com/market-activity/stocks/tsm"
+    }
+]

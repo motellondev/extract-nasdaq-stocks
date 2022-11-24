@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "NEE",
+        "name": "NextEra Energy, Inc. Common Stock",
+        "lastsale": "84.92",
+        "netchange": "0.81",
+        "pctchange": "0.963",
+        "marketCap": "168,749,937,328",
+        "url": "https://www.nasdaq.com/market-activity/stocks/nee"
+    },
+    {
+        "symbol": "DUK",
+        "name": "Duke Energy Corporation (Holding Company) Common Stock",
+        "lastsale": "98.54",
+        "netchange": "0.86",
+        "pctchange": "0.88",
+        "marketCap": "75,881,985,553",
+        "url": "https://www.nasdaq.com/market-activity/stocks/duk"
+    },
+    {
+        "symbol": "SO",
+        "name": "Southern Company (The) Common Stock",
+        "lastsale": "66.36",
+        "netchange": "0.41",
+        "pctchange": "0.622",
+        "marketCap": "72,244,328,866",
+        "url": "https://www.nasdaq.com/market-activity/stocks/so"
+    },
+    {
+        "symbol": "WM",
+        "name": "Waste Management, Inc. Common Stock",
+        "lastsale": "164.01",
+        "netchange": "0.77",
+        "pctchange": "0.472",
+        "marketCap": "67,322,348,515",
+        "url": "https://www.nasdaq.com/market-activity/stocks/wm"
+    },
+    {
+        "symbol": "EPD",
+        "name": "Enterprise Products Partners L.P. Common Stock",
+        "lastsale": "24.77",
+        "netchange": "-0.09",
+        "pctchange": "-0.362",
+        "marketCap": "53,888,861,221",
+        "url": "https://www.nasdaq.com/market-activity/stocks/epd"
+    }
+]

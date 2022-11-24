@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "BHP",
+        "name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
+        "lastsale": "60.04",
+        "netchange": "1.29",
+        "pctchange": "2.196",
+        "marketCap": "151,939,389,763",
+        "url": "https://www.nasdaq.com/market-activity/stocks/bhp"
+    },
+    {
+        "symbol": "RIO",
+        "name": "Rio Tinto Plc Common Stock",
+        "lastsale": "66.14",
+        "netchange": "0.94",
+        "pctchange": "1.442",
+        "marketCap": "107,194,836,225",
+        "url": "https://www.nasdaq.com/market-activity/stocks/rio"
+    },
+    {
+        "symbol": "VALE",
+        "name": "VALE S.A.  American Depositary Shares Each Representing one common share",
+        "lastsale": "15.12",
+        "netchange": "0.23",
+        "pctchange": "1.545",
+        "marketCap": "70,520,619,663",
+        "url": "https://www.nasdaq.com/market-activity/stocks/vale"
+    },
+    {
+        "symbol": "FCX",
+        "name": "Freeport-McMoRan, Inc. Common Stock",
+        "lastsale": "38.04",
+        "netchange": "0.18",
+        "pctchange": "0.475",
+        "marketCap": "54,371,606,346",
+        "url": "https://www.nasdaq.com/market-activity/stocks/fcx"
+    },
+    {
+        "symbol": "SCCO",
+        "name": "Southern Copper Corporation Common Stock",
+        "lastsale": "59.35",
+        "netchange": "-0.12",
+        "pctchange": "-0.202",
+        "marketCap": "45,883,394,135",
+        "url": "https://www.nasdaq.com/market-activity/stocks/scco"
+    }
+]

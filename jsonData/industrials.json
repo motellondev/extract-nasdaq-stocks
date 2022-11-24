@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "MMM",
+        "name": "3M Company Common Stock",
+        "lastsale": "128.00",
+        "netchange": "-0.60",
+        "pctchange": "-0.467",
+        "marketCap": "566,008,744,960",
+        "url": "https://www.nasdaq.com/market-activity/stocks/mmm"
+    },
+    {
+        "symbol": "TMO",
+        "name": "Thermo Fisher Scientific Inc Common Stock",
+        "lastsale": "547.29",
+        "netchange": "2.54",
+        "pctchange": "0.466",
+        "marketCap": "214,644,706,391",
+        "url": "https://www.nasdaq.com/market-activity/stocks/tmo"
+    },
+    {
+        "symbol": "LIN",
+        "name": "Linde plc Ordinary Share",
+        "lastsale": "342.86",
+        "netchange": "3.10",
+        "pctchange": "0.912",
+        "marketCap": "169,502,966,342",
+        "url": "https://www.nasdaq.com/market-activity/stocks/lin"
+    },
+    {
+        "symbol": "HON",
+        "name": "Honeywell International Inc. Common Stock",
+        "lastsale": "218.91",
+        "netchange": "0.15",
+        "pctchange": "0.069",
+        "marketCap": "147,178,059,807",
+        "url": "https://www.nasdaq.com/market-activity/stocks/hon"
+    },
+    {
+        "symbol": "RTX",
+        "name": "Raytheon Technologies Corporation Common Stock",
+        "lastsale": "97.13",
+        "netchange": "0.28",
+        "pctchange": "0.289",
+        "marketCap": "142,787,003,076",
+        "url": "https://www.nasdaq.com/market-activity/stocks/rtx"
+    }
+]

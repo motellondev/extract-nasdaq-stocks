@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "CSCO",
+        "name": "Cisco Systems, Inc. Common Stock (DE)",
+        "lastsale": "48.57",
+        "netchange": "0.19",
+        "pctchange": "0.393",
+        "marketCap": "199,426,912,727",
+        "url": "https://www.nasdaq.com/market-activity/stocks/csco"
+    },
+    {
+        "symbol": "TMUS",
+        "name": "T-Mobile US, Inc. Common Stock",
+        "lastsale": "150.12",
+        "netchange": "-1.48",
+        "pctchange": "-0.976",
+        "marketCap": "186,772,418,596",
+        "url": "https://www.nasdaq.com/market-activity/stocks/tmus"
+    },
+    {
+        "symbol": "VZ",
+        "name": "Verizon Communications Inc. Common Stock",
+        "lastsale": "38.92",
+        "netchange": "-0.28",
+        "pctchange": "-0.714",
+        "marketCap": "163,456,895,037",
+        "url": "https://www.nasdaq.com/market-activity/stocks/vz"
+    },
+    {
+        "symbol": "AMX",
+        "name": "America Movil, S.A.B. de C.V. American Depository Receipt Series L",
+        "lastsale": "20.44",
+        "netchange": "-0.04",
+        "pctchange": "-0.195",
+        "marketCap": "64,901,522,370",
+        "url": "https://www.nasdaq.com/market-activity/stocks/amx"
+    },
+    {
+        "symbol": "AMOV",
+        "name": "America Movil, S.A.B. de C.V. Class A American Depositary Shares",
+        "lastsale": "20.22",
+        "netchange": "0.05",
+        "pctchange": "0.248",
+        "marketCap": "64,202,973,695",
+        "url": "https://www.nasdaq.com/market-activity/stocks/amov"
+    }
+]

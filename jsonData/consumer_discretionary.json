@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc. Common Stock",
+        "lastsale": "94.13",
+        "netchange": "0.93",
+        "pctchange": "0.998",
+        "marketCap": "957,950,486,266",
+        "url": "https://www.nasdaq.com/market-activity/stocks/amzn"
+    },
+    {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc. Common Stock",
+        "lastsale": "183.20",
+        "netchange": "13.29",
+        "pctchange": "7.822",
+        "marketCap": "578,500,248,657",
+        "url": "https://www.nasdaq.com/market-activity/stocks/tsla"
+    },
+    {
+        "symbol": "V",
+        "name": "Visa Inc.",
+        "lastsale": "211.73",
+        "netchange": "1.40",
+        "pctchange": "0.666",
+        "marketCap": "448,430,387,078",
+        "url": "https://www.nasdaq.com/market-activity/stocks/v"
+    },
+    {
+        "symbol": "WMT",
+        "name": "Walmart Inc. Common Stock",
+        "lastsale": "152.42",
+        "netchange": "0.73",
+        "pctchange": "0.481",
+        "marketCap": "413,704,146,358",
+        "url": "https://www.nasdaq.com/market-activity/stocks/wmt"
+    },
+    {
+        "symbol": "PG",
+        "name": "Procter & Gamble Company (The) Common Stock",
+        "lastsale": "146.45",
+        "netchange": "0.83",
+        "pctchange": "0.57",
+        "marketCap": "347,042,105,440",
+        "url": "https://www.nasdaq.com/market-activity/stocks/pg"
+    }
+]

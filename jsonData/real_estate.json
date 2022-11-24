@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "PLD",
+        "name": "Prologis, Inc. Common Stock",
+        "lastsale": "115.53",
+        "netchange": "-0.25",
+        "pctchange": "-0.216",
+        "marketCap": "106,642,970,280",
+        "url": "https://www.nasdaq.com/market-activity/stocks/pld"
+    },
+    {
+        "symbol": "AMT",
+        "name": "American Tower Corporation (REIT) Common Stock",
+        "lastsale": "218.25",
+        "netchange": "0.12",
+        "pctchange": "0.055",
+        "marketCap": "101,618,422,855",
+        "url": "https://www.nasdaq.com/market-activity/stocks/amt"
+    },
+    {
+        "symbol": "EQIX",
+        "name": "Equinix, Inc. Common Stock REIT",
+        "lastsale": "671.77",
+        "netchange": "15.70",
+        "pctchange": "2.393",
+        "marketCap": "62,164,329,514",
+        "url": "https://www.nasdaq.com/market-activity/stocks/eqix"
+    },
+    {
+        "symbol": "CCI",
+        "name": "Crown Castle Inc. Common Stock",
+        "lastsale": "140.12",
+        "netchange": "1.01",
+        "pctchange": "0.726",
+        "marketCap": "60,678,685,900",
+        "url": "https://www.nasdaq.com/market-activity/stocks/cci"
+    },
+    {
+        "symbol": "PSA",
+        "name": "Public Storage Common Stock",
+        "lastsale": "297.12",
+        "netchange": "-2.23",
+        "pctchange": "-0.745",
+        "marketCap": "52,185,677,843",
+        "url": "https://www.nasdaq.com/market-activity/stocks/psa"
+    }
+]

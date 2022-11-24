@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "JPM",
+        "name": "JP Morgan Chase & Co. Common Stock",
+        "lastsale": "136.48",
+        "netchange": "1.44",
+        "pctchange": "1.066",
+        "marketCap": "400,323,803,114",
+        "url": "https://www.nasdaq.com/market-activity/stocks/jpm"
+    },
+    {
+        "symbol": "BAC",
+        "name": "Bank of America Corporation Common Stock",
+        "lastsale": "37.61",
+        "netchange": "0.12",
+        "pctchange": "0.32",
+        "marketCap": "301,723,676,509",
+        "url": "https://www.nasdaq.com/market-activity/stocks/bac"
+    },
+    {
+        "symbol": "WFC",
+        "name": "Wells Fargo & Company Common Stock",
+        "lastsale": "47.33",
+        "netchange": "0.22",
+        "pctchange": "0.467",
+        "marketCap": "180,350,534,202",
+        "url": "https://www.nasdaq.com/market-activity/stocks/wfc"
+    },
+    {
+        "symbol": "MS",
+        "name": "Morgan Stanley Common Stock",
+        "lastsale": "89.93",
+        "netchange": "0.26",
+        "pctchange": "0.29",
+        "marketCap": "151,991,540,051",
+        "url": "https://www.nasdaq.com/market-activity/stocks/ms"
+    },
+    {
+        "symbol": "SCHW",
+        "name": "Charles Schwab Corporation (The) Common Stock",
+        "lastsale": "81.41",
+        "netchange": "0.15",
+        "pctchange": "0.185",
+        "marketCap": "151,971,252,275",
+        "url": "https://www.nasdaq.com/market-activity/stocks/schw"
+    }
+]

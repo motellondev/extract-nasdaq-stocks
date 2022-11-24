@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation Common Stock",
+        "lastsale": "113.61",
+        "netchange": "-0.57",
+        "pctchange": "-0.499",
+        "marketCap": "467,879,315,560",
+        "url": "https://www.nasdaq.com/market-activity/stocks/xom"
+    },
+    {
+        "symbol": "CVX",
+        "name": "Chevron Corporation Common Stock",
+        "lastsale": "184.24",
+        "netchange": "-1.65",
+        "pctchange": "-0.888",
+        "marketCap": "356,253,565,715",
+        "url": "https://www.nasdaq.com/market-activity/stocks/cvx"
+    },
+    {
+        "symbol": "SHEL",
+        "name": "Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+        "lastsale": "56.83",
+        "netchange": "0.01",
+        "pctchange": "0.018",
+        "marketCap": "201,045,437,675",
+        "url": "https://www.nasdaq.com/market-activity/stocks/shel"
+    },
+    {
+        "symbol": "COP",
+        "name": "ConocoPhillips Common Stock",
+        "lastsale": "126.74",
+        "netchange": "-3.24",
+        "pctchange": "-2.493",
+        "marketCap": "157,927,046,905",
+        "url": "https://www.nasdaq.com/market-activity/stocks/cop"
+    },
+    {
+        "symbol": "TTE",
+        "name": "TotalEnergies SE",
+        "lastsale": "60.26",
+        "netchange": "0.19",
+        "pctchange": "0.316",
+        "marketCap": "151,295,572,430",
+        "url": "https://www.nasdaq.com/market-activity/stocks/tte"
+    }
+]
